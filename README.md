@@ -1,4 +1,4 @@
-[![DS+RichPresence](https://i.imgur.com/39u62Fp.png)](https://i.imgur.com/39u62Fp.png) 
+[![DS+RichPresence](https://i.imgur.com/i5BpiCY.png)](https://i.imgur.com/i5BpiCY.png) 
 
 # DS Rich Presence
 
