@@ -1,1 +1,1 @@
-# ds-rich-presence
+# DS Rich Presence
